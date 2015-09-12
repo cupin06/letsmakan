@@ -2,3 +2,14 @@
 .env.*.php
 .env.php
 .env
+/vendor
+/node_modules
+Homestead.yaml
+.env
+/bower_components
+/.idea
+/public/css
+/public/js/
+/npm-debug.log
+/config/assetcachebuster.php
+.directory
